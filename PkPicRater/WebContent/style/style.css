@@ -56,17 +56,6 @@ img {
 	align: center;
 }
 
-.tbTextLogin {
-	font-size: 14px;
-	color: white;
-	font-weight: bold;
-}
-
-#login {
-	position: absolute;
-	left: 910px;
-	top: 13px;
-}
 
 #title {
 	position: absolute;
@@ -76,17 +65,6 @@ img {
 	font-weight: bold;
 	color: white;
 	text-align: center;
-}
-
-#imgtable {
-	position: relative;
-	top: 130px;
-	margin: 0 auto;
-}
-
-#title1 {
-	position: relative;
-	top: 50px;
 }
 
 #footer {
